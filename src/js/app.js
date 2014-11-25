@@ -1,3 +1,4 @@
+/*
 var config = {
     enter: 'right',
     wait: '0.5s',
@@ -5,3 +6,5 @@ var config = {
 }
 
 new scrollReveal(config);
+*/
+var blockScroller = $("#main-wrap").blockScroll();
